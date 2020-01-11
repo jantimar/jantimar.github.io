@@ -8,7 +8,7 @@ title: Projects
   {% for item in site.data.projects %}
   <li>
       <h3><a href="{{ item.link }}">{{ item.name }}</a></h3>
-      <p>{{ item.description }}</p>
+      <p>{{ item.description }} x</p>
     </li>
   {% endfor %}
 </ul>

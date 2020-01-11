@@ -1,12 +1,48 @@
+- name: News
+  link: https://apps.apple.com/cz/app/news-pl/id1139599130?l=cs
+  description: >-
+     It is my own apps, simple RSS readers for a specific market (country)
+     where I try some new features like dark mode, today extension, force touch, deep links and lot of more.
+- name: AppIcon
+  link: https://github.com/jantimar/AppIcon
+  description: >-
+    Small helper project to generate AppIcon and gradient background image,
+    Sketch or Photoshop is probably better for this,
+    but I am an iOS developer and this is for me more faster and customizable.
+- name: Gen
+  link: https://github.com/jantimar/Gen
+  description: >-
+    Do You know this feeling when you write the same code fifty times?
+    I know, and this script in Swift can help you generate code. You are welcome.
 - name: Moneta
-  link: /project/moneta
-  description: Popisek
-- name: AT&T
-  link: /project/att
-  description: Popisek
-- name: Connect
-  link: /project/connect
-  description: Popisek
+  link: https://apps.apple.com/cz/app/moneta-smart-banka/id1122443334?l=cs
+  description: >-
+    During my work in INLOOP from September 2017 to January 2019, I worked on bank app.
+    I was responsible for credit cards, insurances, apple watch extensions, loans in the iOS app.
+    It was an amazing project where I learn a lot of new things from many experienced people.
+- name: AT&T Secure Family
+  link: https://apps.apple.com/us/app/at-t-secure-family/id353334746
+  description: >-
+    It is an app for puts parents in control of their children’s phone. I was responsible for code refactoring, bugfix, and support. 
+    It was a great eight-month opportunity working with the US team and for two months to move to San Francisco 🌉 in sunny California.
+- name: Skoda Connect
+  link: https://apps.apple.com/cz/app/škoda-connect/id1161648654?l=cs
+  description: >-
+    My last big project for eMan in 2017 was for car company Skoda. 
+    I worked for an automotive. That learned me a lot about cars, innovations, and CarPlay. 
 - name: O2TV
-  link: /project/o2tv
-  description: Popisek
+  link: https://apps.apple.com/cz/app/o2-tv/id311143792
+  description: >-
+    And my first big project for eMan company was O2TV app for live television streaming in Czechia.
+    It was a huge responsibility and a lot of knowledge for me for first time working with a big corporation.
+- name: DoKostola
+  link: https://apps.apple.com/cz/app/dokostola/id1054651876?l=cs
+  description: >-
+    My first own project. Small app with a list of churches.
+    It was really great when you can be with the project from start to maintenance.
+- name: Rehabs
+  link: https://github.com/jantimar/rehabs
+  description: >-
+    It is a horrible code. Really really horrible, but on the other side,
+    it was written during a few hours on hackathon weekend and we were third 😎.
+    In realease code it is different, I swear.
