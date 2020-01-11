@@ -1,0 +1,12 @@
+- name: Moneta
+  link: /project/moneta
+  description: Popisek
+- name: AT&T
+  link: /project/att
+  description: Popisek
+- name: Connect
+  link: /project/connect
+  description: Popisek
+- name: O2TV
+  link: /project/o2tv
+  description: Popisek
