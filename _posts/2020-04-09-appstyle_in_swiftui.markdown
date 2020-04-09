@@ -2,7 +2,7 @@
 layout: post
 author: Jan Timar
 title:  "Style app in SwiftUI"
-date:   2020-03-09 10:10:00 +0100
+date:   2020-04-09 10:10:00 +0100
 ---
 In good old UIKit times, when I worked on the white label app [News][2], it was very helpful to separate app views/controllers from app stylings like colors and fonts. Nowadays, in the SwiftUI century, I tried to apply the same pattern.
 
