@@ -3,6 +3,11 @@
   description: >-
      It is my own apps, simple RSS readers for a specific market (country)
      where I try some new features like dark mode, today extension, force touch, deep links and lot of more.
+- name: Gabi
+  link: https://github.com/jantimar/Gabi
+  description: >-
+     Swift Packege to help everyone who tried Apple XMLParser. 
+     With this package you can easly parse XML, iterate child nodes and many many more.
 - name: AppIcon
   link: https://github.com/jantimar/AppIcon
   description: >-
