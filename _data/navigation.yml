@@ -1,2 +1,6 @@
+- name: Home
+  link: /
+- name: Services
+  link: /services.html
 - name: Blog
   link: /blog.html

@@ -1,0 +1,28 @@
+- name: Resolving your problems
+  bullets: |
+    - Consultation existing issue
+    - Bring two or more available solutions with advantages and disadvantages
+    - Proof-of-concept one of your solution
+    - Resolve the issue and covered with tests
+  howItWorks: |
+    You can send me your requirments on me e-mail jantimar2@gmail.com and I will send you my proposals until 48hours after small research under your issue.
+    After this, we can have a small call (or just a few emails if you prefer this way) about edge cases and what you expect from my help to you - final solution, proof-of-concept, consulting.
+    Then I can prepare proposals which will contain the final price and expected time to resolve your problem. Until I will resolve your problem, or give you some consulting, is everything free for you.
+    
+- name: I will give you helping hand with SwiftUI
+  bullets: |
+    - Create components base on Figma or Zeplin
+    - Optimize existing View, make it more clear and customizable if needed
+    - I will help you with your SwiftUI issues
+  howItWorks: |
+    With the first two points, I need a link for the final design and your current View (or Views) with Previews if exist and Protocol of your Inputs or ViewModel if exist.
+    I will take 48hours to study how it works in the current state and prepare some proof-of-concept for yourself. After this, we can have a small call (or just a few emails if you prefer this way) about the next steps If I update your current state or refactor it to new SwiftUI elements.
+    Then I can prepare proposals that will contain the final price and expected time to create your final SwiftUI component/s.   
+    
+- name: Code reviews
+  bullets: |
+    - Optimize your syntax
+    - Optimize your code performance
+    - Hints to improve your codebase
+  howItWorks: |
+    After you get me access to your repository I will check your code until 72hours and then base on your current code base commit messages I will send you proposals for price/hour to reviewing your pull requests (the first PR validation will be for free to be sure about your and my expectations)
