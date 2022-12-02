@@ -28,7 +28,7 @@
 - name: AT&T Secure Family
   link: https://apps.apple.com/us/app/at-t-secure-family/id353334746
   description: >-
-    It is an app for puts parents in control of their children’s phone. I was responsible for code refactoring, bugfix, and support. 
+    App for puts parents in control of their children’s phone. I was responsible for code refactoring, bugfix, and support.
     It was a great eight-month opportunity working with the US team and for two months to move to San Francisco 🌉 in sunny California.
 - name: Skoda Connect
   link: https://apps.apple.com/cz/app/škoda-connect/id1161648654?l=cs
@@ -45,6 +45,11 @@
   description: >-
     My first own project. Small app with a list of churches.
     It was really great when you can be with the project from start to maintenance.
+- name: Stylebop
+  link: https://apps.apple.com/cz/app/stylebop-luxusmode/id1498189664
+  description: >-
+    Project developed like white label for different tenants, fashion shops, under Peek & Cloppenburg companies. It was nice a year and lot experience and bugs in SwiftUI 1.0 😅.
+    I am so glad where SwiftUI moved from first version.
 - name: Rehabs
   link: https://github.com/jantimar/rehabs
   description: >-
