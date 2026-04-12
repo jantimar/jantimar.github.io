@@ -1,3 +1,8 @@
+- name: Habitoo
+  link: /habito.html
+  description: >-
+    A simple iPhone habit tracker with reminders, streaks, clear statistics,
+    calendar history, tips, and achievements. Core is writed in KMP with a ViewModel and View layers in native Swift / SwiftUI
 - name: News
   link: https://apps.apple.com/cz/app/news-pl/id1139599130?l=cs
   description: >-
