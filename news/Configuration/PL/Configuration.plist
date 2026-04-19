@@ -41,7 +41,7 @@
 				<key>title</key>
 				<string>wp.pl</string>
 				<key>rss</key>
-				<string>http://wiadomosci.wp.pl/kat,1329,ver,rss,rss.xml</string>
+				<string>https://wiadomosci.wp.pl/rss.xml</string>
 				<key>sortKey</key>
 				<integer>3</integer>
 				<key>deprecated</key>
@@ -89,7 +89,7 @@
 				<key>title</key>
 				<string>nowiny24.pl</string>
 				<key>rss</key>
-				<string>http://www.nowiny24.pl/rss/nowiny.xml</string>
+				<string>https://nowiny24.pl/rss/nowiny.xml</string>
 				<key>sortKey</key>
 				<integer>7</integer>
 				<key>deprecated</key>
@@ -137,7 +137,7 @@
 				<key>title</key>
 				<string>gazetawroclawska.pl</string>
 				<key>rss</key>
-				<string>http://www.gazetawroclawska.pl/rss/gazetawroclawska.xml</string>
+				<string>https://gazetawroclawska.pl/rss/gazetawroclawska.xml</string>
 				<key>sortKey</key>
 				<integer>12</integer>
 				<key>deprecated</key>
@@ -219,9 +219,9 @@
 				<key>id</key>
 				<integer>19</integer>
 				<key>title</key>
-				<string>polskatimes.pl</string>
+				<string>i.pl</string>
 				<key>rss</key>
-				<string>https://polskatimes.pl/rss</string>
+				<string>https://i.pl/rss</string>
 				<key>sortKey</key>
 				<integer>19</integer>
 				<key>deprecated</key>
@@ -290,9 +290,9 @@
 				<key>id</key>
 				<integer>24</integer>
 				<key>title</key>
-				<string>salon24.pl</string>
+				<string>dorzeczy.pl</string>
 				<key>rss</key>
-				<string>https://www.salon24.pl/rss/hp</string>
+				<string>https://dorzeczy.pl/feed</string>
 				<key>sortKey</key>
 				<integer>4</integer>
 				<key>deprecated</key>
@@ -364,7 +364,7 @@
 				<key>title</key>
 				<string>pomorska.pl</string>
 				<key>rss</key>
-				<string>http://www.pomorska.pl/rss/gazetapomorska.xml</string>
+				<string>https://pomorska.pl/rss/gazetapomorska.xml</string>
 				<key>sortKey</key>
 				<integer>11</integer>
 				<key>deprecated</key>
@@ -376,7 +376,7 @@
 				<key>title</key>
 				<string>chip.pl</string>
 				<key>rss</key>
-				<string>https://www.chip.pl/feed/</string>
+				<string>https://www.chip.pl/feed</string>
 				<key>sortKey</key>
 				<integer>12</integer>
 				<key>deprecated</key>
@@ -422,9 +422,9 @@
 				<key>id</key>
 				<integer>37</integer>
 				<key>title</key>
-				<string>dziennikwschodni.pl</string>
+				<string>kurierlubelski.pl</string>
 				<key>rss</key>
-				<string>https://www.dziennikwschodni.pl/rss</string>
+				<string>https://kurierlubelski.pl/rss/kurierlubelski.xml</string>
 				<key>sortKey</key>
 				<integer>16</integer>
 				<key>deprecated</key>
@@ -529,13 +529,13 @@
 				<key>id</key>
 				<integer>43</integer>
 				<key>title</key>
-				<string>sportfan.pl</string>
+				<string>pilkanozna.pl</string>
 				<key>rss</key>
-				<string>http://www.sportfan.pl/feed/</string>
+				<string>https://pilkanozna.pl/feed/</string>
 				<key>sortKey</key>
 				<integer>5</integer>
 				<key>deprecated</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>id</key>
@@ -576,9 +576,9 @@
 				<key>id</key>
 				<integer>47</integer>
 				<key>title</key>
-				<string>styl.pl</string>
+				<string>styl.interia.pl</string>
 				<key>rss</key>
-				<string>http://www.styl.pl/moda/feed</string>
+				<string>https://styl.interia.pl/feed</string>
 				<key>sortKey</key>
 				<integer>0</integer>
 				<key>deprecated</key>
@@ -612,21 +612,21 @@
 				<key>id</key>
 				<integer>50</integer>
 				<key>title</key>
-				<string>mjakmama.pl</string>
+				<string>mamotoja.pl</string>
 				<key>rss</key>
-				<string>http://www.mjakmama24.pl/rss/ostatnie</string>
+				<string>https://mamotoja.pl/feed/</string>
 				<key>sortKey</key>
 				<integer>3</integer>
 				<key>deprecated</key>
-				<integer>1</integer>
+				<integer>0</integer>
 			</dict>
 			<dict>
 				<key>id</key>
 				<integer>51</integer>
 				<key>title</key>
-				<string>gala.pl</string>
+				<string>viva.pl</string>
 				<key>rss</key>
-				<string>https://www.gala.pl/rss/</string>
+				<string>https://viva.pl/feed/</string>
 				<key>sortKey</key>
 				<integer>4</integer>
 				<key>deprecated</key>

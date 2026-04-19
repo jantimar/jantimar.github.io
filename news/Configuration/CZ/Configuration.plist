@@ -137,7 +137,7 @@
 				<key>title</key>
 				<string>tyden.cz</string>
 				<key>rss</key>
-				<string>http://www.tyden.cz/rss/rss.php?all</string>
+				<string>https://www.tyden.cz/rss</string>
 				<key>sortKey</key>
 				<integer>10</integer>
                 <key>deprecated</key>
@@ -445,9 +445,9 @@
 				<key>id</key>
 				<integer>32</integer>
 				<key>title</key>
-				<string>premiership.efotbal.cz</string>
+				<string>premier-league.sport.cz</string>
 				<key>rss</key>
-				<string>http://premiership.efotbal.cz/rss.php</string>
+				<string>https://www.sport.cz/rss2/fotbal/premier-league</string>
 				<key>sortKey</key>
 				<integer>3</integer>
                 <key>deprecated</key>
@@ -483,11 +483,11 @@
 				<key>title</key>
 				<string>ct.cz</string>
 				<key>rss</key>
-				<string>http://www.ceskatelevize.cz/sport/rss/hlavni-zpravy</string>
+				<string>https://sport.ceskatelevize.cz/rss</string>
 				<key>sortKey</key>
 				<integer>6</integer>
                 <key>deprecated</key>
-                <integer>1</integer>
+                <integer>0</integer>
             </dict>
 		</array>
 	</dict>

@@ -53,7 +53,7 @@
 					<key>title</key>
 					<string>sme.sk</string>
 					<key>rss</key>
-					<string>http://rss.sme.sk/rss/rss.asp?id=frontpage</string>
+					<string>https://www.sme.sk/rss</string>
 					<key>sortKey</key>
 					<integer>2</integer>
 					<key>deprecated</key>
@@ -101,21 +101,9 @@
 					<key>title</key>
 					<string>pluska.sk</string>
 					<key>rss</key>
-					<string>http://www.pluska.sk/rss-spravy.xml</string>
+					<string>https://www1.pluska.sk/rss.xml</string>
 					<key>sortKey</key>
 					<integer>6</integer>
-					<key>deprecated</key>
-					<integer>0</integer>
-				</dict>
-				<dict>
-					<key>id</key>
-					<integer>6</integer>
-					<key>title</key>
-					<string>webnoviny.sk</string>
-					<key>rss</key>
-					<string>http://www.webnoviny.sk/rss/clanky-img</string>
-					<key>sortKey</key>
-					<integer>7</integer>
 					<key>deprecated</key>
 					<integer>0</integer>
 				</dict>
@@ -137,7 +125,7 @@
 					<key>title</key>
 					<string>ta3.sk</string>
 					<key>rss</key>
-					<string>http://www.ta3.com/rss/all/vsetky-novinky.html</string>
+					<string>https://www.ta3.sk/feed/</string>
 					<key>sortKey</key>
 					<integer>9</integer>
 					<key>deprecated</key>
@@ -164,6 +152,18 @@
 					<string>https://europskenoviny.sk/feed/</string>
 					<key>sortKey</key>
 					<integer>11</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>41</integer>
+					<key>title</key>
+					<string>sita.sk</string>
+					<key>rss</key>
+					<string>https://sita.sk/rss/clanky-img/</string>
+					<key>sortKey</key>
+					<integer>12</integer>
 					<key>deprecated</key>
 					<integer>0</integer>
 				</dict>
@@ -278,9 +278,9 @@
 					<key>id</key>
 					<integer>19</integer>
 					<key>title</key>
-					<string>etrend.sk</string>
+					<string>trend.sk</string>
 					<key>rss</key>
-					<string>http://www.etrend.sk/rss/etrend.xml</string>
+					<string>https://trend.sk/rss.xml</string>
 					<key>sortKey</key>
 					<integer>8</integer>
 					<key>deprecated</key>
@@ -312,18 +312,6 @@
 				</dict>
 				<dict>
 					<key>id</key>
-					<integer>34</integer>
-					<key>title</key>
-					<string>mobil.sk</string>
-					<key>rss</key>
-					<string>https://mobil.sk/rss/</string>
-					<key>sortKey</key>
-					<integer>3</integer>
-					<key>deprecated</key>
-					<integer>0</integer>
-				</dict>
-				<dict>
-					<key>id</key>
 					<integer>40</integer>
 					<key>title</key>
 					<string>TECHBYTE.sk</string>
@@ -331,6 +319,30 @@
 					<string>https://www.techbyte.sk/feed/</string>
 					<key>sortKey</key>
 					<integer>1</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>42</integer>
+					<key>title</key>
+					<string>openiazoch.sk</string>
+					<key>rss</key>
+					<string>https://openiazoch.zoznam.sk/feed/</string>
+					<key>sortKey</key>
+					<integer>10</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>43</integer>
+					<key>title</key>
+					<string>mojandroid.sk</string>
+					<key>rss</key>
+					<string>https://www.mojandroid.sk/feed/</string>
+					<key>sortKey</key>
+					<integer>11</integer>
 					<key>deprecated</key>
 					<integer>0</integer>
 				</dict>
@@ -385,9 +397,9 @@
 					<key>id</key>
 					<integer>30</integer>
 					<key>title</key>
-					<string>premiership.efotbal.cz</string>
+					<string>nikeliga.sk</string>
 					<key>rss</key>
-					<string>http://premiership.efotbal.cz/rss.php</string>
+					<string>https://www.nikeliga.sk/rss.xml</string>
 					<key>sortKey</key>
 					<integer>4</integer>
 					<key>deprecated</key>
@@ -409,9 +421,9 @@
 					<key>id</key>
 					<integer>24</integer>
 					<key>title</key>
-					<string>sport.sme.sk</string>
+					<string>sportnet.sme.sk</string>
 					<key>rss</key>
-					<string>http://rss.sme.sk/rss/rss.asp?sek=sport</string>
+					<string>https://sportnet.sme.sk/rss/</string>
 					<key>sortKey</key>
 					<integer>2</integer>
 					<key>deprecated</key>
@@ -426,6 +438,18 @@
 					<string>https://profutbal.sk/rss/</string>
 					<key>sortKey</key>
 					<integer>6</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>44</integer>
+					<key>title</key>
+					<string>futbal.sport.sk</string>
+					<key>rss</key>
+					<string>https://sport.aktuality.sk/rss/futbal</string>
+					<key>sortKey</key>
+					<integer>7</integer>
 					<key>deprecated</key>
 					<integer>0</integer>
 				</dict>
@@ -497,6 +521,30 @@
 					<string>https://beauty.sk/rss/</string>
 					<key>sortKey</key>
 					<integer>3</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>45</integer>
+					<key>title</key>
+					<string>womanman.sk</string>
+					<key>rss</key>
+					<string>https://womanman.sk/feed/</string>
+					<key>sortKey</key>
+					<integer>4</integer>
+					<key>deprecated</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>id</key>
+					<integer>46</integer>
+					<key>title</key>
+					<string>emma.sk</string>
+					<key>rss</key>
+					<string>https://emma.pluska.sk/rss.xml</string>
+					<key>sortKey</key>
+					<integer>5</integer>
 					<key>deprecated</key>
 					<integer>0</integer>
 				</dict>
