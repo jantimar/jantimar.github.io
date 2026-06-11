@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "locale": "cs-CZ",
+  "categories": [
+    {
+      "key": "news",
+      "displayName": "Zpravy",
+      "sortOrder": 0,
+      "channels": [
+        {
+          "id": "news-0",
+          "title": "idnes.cz",
+          "feedUrl": "https://servis.idnes.cz/rss.aspx?c=zpravodaj",
+          "sortOrder": 0
+        },
+        {
+          "id": "news-7",
+          "title": "noviny.cz",
+          "feedUrl": "https://www.novinky.cz/rss",
+          "sortOrder": 1
+        },
+        {
+          "id": "news-10",
+          "title": "aktualne.cz",
+          "feedUrl": "https://www.aktualne.cz/mrss",
+          "sortOrder": 2
+        },
+        {
+          "id": "news-8",
+          "title": "ct.cz",
+          "feedUrl": "https://ct24.ceskatelevize.cz/rss",
+          "sortOrder": 3
+        },
+        {
+          "id": "news-11",
+          "title": "denik.cz",
+          "feedUrl": "https://www.denik.cz/rss/z_domova.html",
+          "sortOrder": 4
+        },
+        {
+          "id": "news-1",
+          "title": "tn.cz",
+          "feedUrl": "https://tn.nova.cz/feed/atom/tnnova-2",
+          "sortOrder": 5
+        },
+        {
+          "id": "news-5",
+          "title": "blesk.cz",
+          "feedUrl": "https://www.blesk.cz/rss",
+          "sortOrder": 6
+        },
+        {
+          "id": "news-17",
+          "title": "echo24.cz",
+          "feedUrl": "https://www.echo24.cz/rss/s",
+          "sortOrder": 7
+        },
+        {
+          "id": "news-3",
+          "title": "lidovky.cz",
+          "feedUrl": "https://servis.lidovky.cz/rss.aspx",
+          "sortOrder": 8
+        },
+        {
+          "id": "news-4",
+          "title": "tyden.cz",
+          "feedUrl": "https://www.tyden.cz/rss",
+          "sortOrder": 9
+        },
+        {
+          "id": "news-9",
+          "title": "metro.cz",
+          "feedUrl": "https://servis.metro.cz/rss.aspx",
+          "sortOrder": 10
+        },
+        {
+          "id": "news-2",
+          "title": "prvnizpravy.cz",
+          "feedUrl": "http://www.prvnizpravy.cz/repository/rss/zpravy_all_cs.xml",
+          "sortOrder": 11
+        },
+        {
+          "id": "news-12",
+          "title": "seznamzpravy.cz",
+          "feedUrl": "https://www.seznamzpravy.cz/rss",
+          "sortOrder": 12
+        },
+        {
+          "id": "news-13",
+          "title": "irozhlas.cz",
+          "feedUrl": "https://www.irozhlas.cz/rss/irozhlas",
+          "sortOrder": 13
+        },
+        {
+          "id": "news-14",
+          "title": "cnn.iprima.cz",
+          "feedUrl": "https://cnn.iprima.cz/rss",
+          "sortOrder": 14
+        },
+        {
+          "id": "news-15",
+          "title": "ceskenoviny.cz",
+          "feedUrl": "https://www.ceskenoviny.cz/sluzby/rss/zpravy.php",
+          "sortOrder": 15
+        },
+        {
+          "id": "news-16",
+          "title": "forum24.cz",
+          "feedUrl": "https://www.forum24.cz/feed",
+          "sortOrder": 16
+        },
+        {
+          "id": "news-18",
+          "title": "ahaonline.cz",
+          "feedUrl": "https://www.ahaonline.cz/rss",
+          "sortOrder": 17
+        },
+        {
+          "id": "news-19",
+          "title": "info.cz",
+          "feedUrl": "https://www.info.cz/rss",
+          "sortOrder": 18
+        }
+      ]
+    },
+    {
+      "key": "interest",
+      "displayName": "Zajimavosti",
+      "sortOrder": 1,
+      "channels": [
+        {
+          "id": "interest-15",
+          "title": "czechcrunch.cz",
+          "feedUrl": "https://www.czechcrunch.cz/feed/",
+          "sortOrder": 0
+        },
+        {
+          "id": "interest-12",
+          "title": "refresher.cz",
+          "feedUrl": "https://refresher.cz/rss",
+          "sortOrder": 1
+        },
+        {
+          "id": "interest-13",
+          "title": "respekt.cz",
+          "feedUrl": "https://feeds.feedburner.com/odemcene-clanky",
+          "sortOrder": 2
+        },
+        {
+          "id": "interest-14",
+          "title": "reflex.cz",
+          "feedUrl": "https://www.reflex.cz/rss",
+          "sortOrder": 3
+        },
+        {
+          "id": "interest-61",
+          "title": "extra.cz",
+          "feedUrl": "https://www.extra.cz/rss.xml",
+          "sortOrder": 4
+        },
+        {
+          "id": "interest-62",
+          "title": "super.cz",
+          "feedUrl": "https://www.super.cz/rss2",
+          "sortOrder": 5
+        },
+        {
+          "id": "interest-18",
+          "title": "mobilmania.cz",
+          "feedUrl": "https://www.mobilmania.cz/rss/sc-47/",
+          "sortOrder": 6
+        },
+        {
+          "id": "interest-19",
+          "title": "zive.cz",
+          "feedUrl": "https://www.zive.cz/rss/sc-47/default.aspx?rss=1",
+          "sortOrder": 7
+        },
+        {
+          "id": "interest-16",
+          "title": "national-geographic.cz",
+          "feedUrl": "https://www.nationalgeographic.cz/rss/vse.xml",
+          "sortOrder": 8
+        },
+        {
+          "id": "interest-40",
+          "title": "e15.cz",
+          "feedUrl": "https://www.e15.cz/rss",
+          "sortOrder": 9
+        },
+        {
+          "id": "interest-20",
+          "title": "21stoleti.cz",
+          "feedUrl": "https://21stoleti.cz/feed/",
+          "sortOrder": 10
+        },
+        {
+          "id": "interest-21",
+          "title": "letemsvetemapplem.eu",
+          "feedUrl": "https://letemsvetemapplem.eu/feed.xml",
+          "sortOrder": 11
+        },
+        {
+          "id": "interest-24",
+          "title": "firstclass.cz",
+          "feedUrl": "https://www.firstclass.cz/feed",
+          "sortOrder": 13
+        },
+        {
+          "id": "interest-25",
+          "title": "evropa2.cz",
+          "feedUrl": "https://www.evropa2.cz/feed",
+          "sortOrder": 14
+        },
+        {
+          "id": "interest-26",
+          "title": "zajimavysvet.cz",
+          "feedUrl": "https://www.zajimavysvet.cz/feed/",
+          "sortOrder": 15
+        },
+        {
+          "id": "interest-22",
+          "title": "epochaplus.cz",
+          "feedUrl": "https://epochaplus.cz/feed/",
+          "sortOrder": 16
+        },
+        {
+          "id": "interest-23",
+          "title": "epochalnisvet.cz",
+          "feedUrl": "https://epochalnisvet.cz/feed/",
+          "sortOrder": 17
+        },
+        {
+          "id": "interest-27",
+          "title": "cestovani.lidovky.cz",
+          "feedUrl": "https://servis.lidovky.cz/rss.aspx?c=ln_cestovani",
+          "sortOrder": 18
+        },
+        {
+          "id": "interest-63",
+          "title": "forbes.cz",
+          "feedUrl": "https://forbes.cz/feed/",
+          "sortOrder": 19
+        },
+        {
+          "id": "interest-64",
+          "title": "vitalia.cz",
+          "feedUrl": "https://www.vitalia.cz/rss/clanky/",
+          "sortOrder": 20
+        },
+        {
+          "id": "interest-65",
+          "title": "apetitonline.cz",
+          "feedUrl": "https://www.apetitonline.cz/rss.xml",
+          "sortOrder": 21
+        }
+      ]
+    },
+    {
+      "key": "sport",
+      "displayName": "Sport",
+      "sortOrder": 2,
+      "channels": [
+        {
+          "id": "sport-34",
+          "title": "sport.cz",
+          "feedUrl": "https://www.sport.cz/rss2",
+          "sortOrder": 0
+        },
+        {
+          "id": "sport-29",
+          "title": "isport.cz",
+          "feedUrl": "https://isport.blesk.cz/rss",
+          "sortOrder": 1
+        },
+        {
+          "id": "sport-33",
+          "title": "hokej.cz",
+          "feedUrl": "https://www.hokej.cz/rss/vse",
+          "sortOrder": 2
+        },
+        {
+          "id": "sport-30",
+          "title": "nhl.cz",
+          "feedUrl": "https://www.nhl.cz/rss/nhl",
+          "sortOrder": 3
+        },
+        {
+          "id": "sport-31",
+          "title": "formule1.cz",
+          "feedUrl": "https://f1sport.auto.cz/rss",
+          "sortOrder": 4
+        }
+      ]
+    },
+    {
+      "key": "tech",
+      "displayName": "Technologie",
+      "sortOrder": 3,
+      "channels": [
+        {
+          "id": "tech-64",
+          "title": "lupa.cz",
+          "feedUrl": "https://www.lupa.cz/rss/clanky/",
+          "sortOrder": 0
+        },
+        {
+          "id": "tech-65",
+          "title": "root.cz",
+          "feedUrl": "https://www.root.cz/rss/clanky/",
+          "sortOrder": 1
+        },
+        {
+          "id": "tech-66",
+          "title": "svetandroida.cz",
+          "feedUrl": "https://www.svetandroida.cz/feed/",
+          "sortOrder": 2
+        },
+        {
+          "id": "tech-67",
+          "title": "cnews.cz",
+          "feedUrl": "https://www.cnews.cz/rss/clanky/",
+          "sortOrder": 3
+        },
+        {
+          "id": "tech-68",
+          "title": "diit.cz",
+          "feedUrl": "https://diit.cz/rss.xml",
+          "sortOrder": 4
+        },
+        {
+          "id": "tech-69",
+          "title": "chip.cz",
+          "feedUrl": "https://www.chip.cz/rss",
+          "sortOrder": 5
+        },
+        {
+          "id": "tech-70",
+          "title": "cdr.cz",
+          "feedUrl": "https://cdr.cz/rss.xml",
+          "sortOrder": 6
+        },
+        {
+          "id": "tech-71",
+          "title": "itbiz.cz",
+          "feedUrl": "https://www.itbiz.cz/feed",
+          "sortOrder": 7
+        },
+        {
+          "id": "tech-72",
+          "title": "computertrends.cz",
+          "feedUrl": "https://www.computertrends.cz/rss/clanky/",
+          "sortOrder": 8
+        },
+        {
+          "id": "tech-73",
+          "title": "channeltrends.cz",
+          "feedUrl": "https://www.channeltrends.cz/rss/clanky/",
+          "sortOrder": 9
+        }
+      ]
+    }
+  ]
+}
